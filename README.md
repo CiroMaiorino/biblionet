@@ -28,7 +28,7 @@ In this section we introduce context informations for the project.
 * **Antonio Della Porta**   - *Developer*         - [atdepo](https://github.com/atdepo)
 * **Alessio Casolaro**      - *Developer*         - [BearGrillz99](https://github.com/BearGrillz99)
 * **Giulio Triggiani**      - *Developer*         - [rayleighRe1](https://github.com/rayleighRe1)
-* **Ciro Maiorino**         - *Developer*         - [Tekhorror](https://github.com/Tekhorror)
+* **Ciro Maiorino**         - *Developer*         - [Tekhorror](https://github.com/CiroMaiorino)
 * **Nicola Pagliara**       - *Developer*         - [Nicola-Pagliara](https://github.com/Nicola-Pagliara)
 * **Luca Cristiano**        - *Developer*         - [Zekromaster](https://github.com/Zekromaster)
 
